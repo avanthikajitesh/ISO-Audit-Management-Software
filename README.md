@@ -1,3 +1,12 @@
+## Team Project
+This project was developed as a group project.
+
+Team Members:
+- Apeksha Ashok
+- Avanthika Jitesh
+
+
+
 # ISO Audit Management Software
 
 A modular C application to efficiently manage and schedule ISO audit records for organizations. Supports validated audit creation, prioritized scheduling, and real-time tracking, leveraging robust data structures and simple interactive controls.
@@ -27,6 +36,11 @@ A modular C application to efficiently manage and schedule ISO audit records for
   Track active audits with a dynamic list, updating as audits progress or complete.
 
 ---
+## How to Run
+1. Compile using gcc
+2. Run the executable
+3. Follow menu-driven options for audit management
+
 
 
 
